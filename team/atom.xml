@@ -1,12 +1,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Team on Volksentscheid Transparenzgesetz</title>
-  <link rel="self" href="volksentscheid-transparenz.de/team/"/>
+  <link rel="self" href="https://beta.volksentscheid-transparenz.de/team/"/>
   <updated>0001-01-01T00:00:00+0000</updated>
   <author>
     <name>YOUR NAME HERE</name>
     <email>YOUR EMAIL ADDRESS</email>
     <uri>DEFINITIVE URI OF YOUR WEB SITE</uri>
   </author>
-  <id>volksentscheid-transparenz.de/team/</id>
+  <id>https://beta.volksentscheid-transparenz.de/team/</id>
   
 </feed>

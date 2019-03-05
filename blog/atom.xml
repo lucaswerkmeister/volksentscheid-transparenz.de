@@ -1,18 +1,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog on Volksentscheid Transparenzgesetz</title>
-  <link rel="self" href="volksentscheid-transparenz.de/blog/"/>
+  <link rel="self" href="https://beta.volksentscheid-transparenz.de/blog/"/>
   <updated>2019-01-20T00:00:00+0000</updated>
   <author>
     <name>YOUR NAME HERE</name>
     <email>YOUR EMAIL ADDRESS</email>
     <uri>DEFINITIVE URI OF YOUR WEB SITE</uri>
   </author>
-  <id>volksentscheid-transparenz.de/blog/</id>
+  <id>https://beta.volksentscheid-transparenz.de/blog/</id>
   
   <entry>
     <title>Stellungnahme zum Entwurf der FDP</title>
-    <link rel="alternate" href="volksentscheid-transparenz.de/blog/2019/01/stellungnahme-zum-entwurf-der-fdp/"/>
-    <id>volksentscheid-transparenz.de/blog/2019/01/stellungnahme-zum-entwurf-der-fdp/</id>
+    <link rel="alternate" href="https://beta.volksentscheid-transparenz.de/blog/2019/01/stellungnahme-zum-entwurf-der-fdp/"/>
+    <id>https://beta.volksentscheid-transparenz.de/blog/2019/01/stellungnahme-zum-entwurf-der-fdp/</id>
     <published>2019-01-20T00:00:00+0000</published>
     <updated>2019-01-20T00:00:00+0000</updated>
     <summary></summary>
@@ -20,8 +20,8 @@
   
   <entry>
     <title>7 Gründe, warum Berlin jetzt ein Transparenzgesetz braucht</title>
-    <link rel="alternate" href="volksentscheid-transparenz.de/blog/2018/10/7-gr%C3%BCnde-warum-berlin-jetzt-ein-transparenzgesetz-braucht/"/>
-    <id>volksentscheid-transparenz.de/blog/2018/10/7-gr%C3%BCnde-warum-berlin-jetzt-ein-transparenzgesetz-braucht/</id>
+    <link rel="alternate" href="https://beta.volksentscheid-transparenz.de/blog/2018/10/7-gr%C3%BCnde-warum-berlin-jetzt-ein-transparenzgesetz-braucht/"/>
+    <id>https://beta.volksentscheid-transparenz.de/blog/2018/10/7-gr%C3%BCnde-warum-berlin-jetzt-ein-transparenzgesetz-braucht/</id>
     <published>2018-10-10T00:00:00+0000</published>
     <updated>2018-10-10T00:00:00+0000</updated>
     <summary>Es ist höchste Zeit, dass Berlin ein Transparenzgesetz einführt, durch das die Verwaltung wichtige Daten proaktiv veröffentlichen muss. Wie in Hamburg müssen auch die Behörden der Hauptstadt verpflichtet werden, unter anderem Verträge der öffentlichen Verwaltung, Haushalts- und Vergabedaten sowie interne Weisungen offenzulegen. Die neue rot-rot-grüne Koaltion muss jetzt handeln:
