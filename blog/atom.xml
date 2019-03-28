@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog on Volksentscheid Transparenzgesetz</title>
   <link rel="self" href="/blog/"/>
-  <updated>2019-01-20T00:00:00+0000</updated>
+  <updated>2019-03-28T00:00:00+0000</updated>
   <author>
     <name>YOUR NAME HERE</name>
     <email>YOUR EMAIL ADDRESS</email>
     <uri>DEFINITIVE URI OF YOUR WEB SITE</uri>
   </author>
   <id>/blog/</id>
+  
+  <entry>
+    <title>Gesetzesentwurf zur Kostenschätzung eingereicht</title>
+    <link rel="alternate" href="/blog/2019/03/gesetzesentwurf-zur-kostensch%C3%A4tzung-eingereicht/"/>
+    <id>/blog/2019/03/gesetzesentwurf-zur-kostensch%C3%A4tzung-eingereicht/</id>
+    <published>2019-03-28T00:00:00+0000</published>
+    <updated>2019-03-28T00:00:00+0000</updated>
+    <summary>Die Open Knowledge Foundation und der Landesverband von Mehr Demokratie haben stellvertretend für das Bündnis ​Volksentscheid Transparenz​, ihren Entwurf für ein Berliner Transparenzgesetz dem Senat übergeben.​ ​Mit der Einreichung des Entwurfs muss nun die Senatsverwaltung eine amtliche Kostenschätzung über den finanziellen Aufwand erstellen.
+„Trotz des eigenen Koalitionsversprechens hat der Senat bisher keinen Entwurf für ein Transparenzgesetz vorgelegt”, sagt Leonard Wolf, Sprecher des Bündnisses ​Volksentscheid Transparenz. ​„Wenn der Senat sich nicht bewegt, dann müssen wir als Bürgerinnen und Bürger selbst aktiv werden und dafür sorgen, dass die Berliner Behörden transparenter werden”, ergänzt Oliver Wiedmann, Vorstandssprecher von ​Mehr Demokratie Berlin/Brandenburg​.</summary>
+  </entry>
   
   <entry>
     <title>Stellungnahme zum Entwurf der FDP</title>
