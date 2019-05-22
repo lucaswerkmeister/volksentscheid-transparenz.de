@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog on Volksentscheid Transparenzgesetz</title>
   <link rel="self" href="/blog/"/>
-  <updated>2019-04-25T00:00:00+0000</updated>
+  <updated>2019-05-22T00:00:00+0000</updated>
   <author>
     <name>YOUR NAME HERE</name>
     <email>YOUR EMAIL ADDRESS</email>
     <uri>DEFINITIVE URI OF YOUR WEB SITE</uri>
   </author>
   <id>/blog/</id>
+  
+  <entry>
+    <title>Volksbegehren unzulässig - Akteneinsicht verweigert - Initiative fordert neue gesetzliche Regelungen</title>
+    <link rel="alternate" href="/blog/2019/05/volksbegehren-unzul%C3%A4ssig-akteneinsicht-verweigert-initiative-fordert-neue-gesetzliche-regelungen/"/>
+    <id>/blog/2019/05/volksbegehren-unzul%C3%A4ssig-akteneinsicht-verweigert-initiative-fordert-neue-gesetzliche-regelungen/</id>
+    <published>2019-05-22T00:00:00+0000</published>
+    <updated>2019-05-22T00:00:00+0000</updated>
+    <summary>Die Senatsverwaltung für Inneres hat heute (22.05.) nach monatelangem Rechtsstreit ein Gesuch auf Akteneinsicht des Generalsekretärs der Berliner CDU Stefan Evers erneut verweigert. Das würde sich mit dem Gesetzentwurf der Initiative Volksentscheid Transparenz ändern: Dieser stärkt die Informationsrechte der Bürger*innen und sieht unter anderem vor, dass Entscheidungsgrundlagen des Senats automatisch der Öffentlichkeit zugänglich gemacht werden müssen.
+“Natürlich muss sich der Senat auch in einem geschützten Bereich beraten können. Sobald er aber Gutachten in Auftrag gibt müssen diese öffentlich zugänglich sein”, sagt Leonard Wolf, Sprecher des Volksentscheids Transparenz.</summary>
+  </entry>
   
   <entry>
     <title>Berliner Verfassungsschutzgesetz europarechtswidrig - Neues Gesetz muss für echte Transparenz sorgen</title>
