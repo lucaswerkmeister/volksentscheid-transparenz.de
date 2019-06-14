@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog on Volksentscheid Transparenzgesetz</title>
   <link rel="self" href="/blog/"/>
-  <updated>2019-05-22T00:00:00+0000</updated>
+  <updated>2019-06-14T00:00:00+0000</updated>
   <author>
     <name>YOUR NAME HERE</name>
     <email>YOUR EMAIL ADDRESS</email>
     <uri>DEFINITIVE URI OF YOUR WEB SITE</uri>
   </author>
   <id>/blog/</id>
+  
+  <entry>
+    <title>Einladung - Berliner IFG-Marathon am 20.Juni</title>
+    <link rel="alternate" href="/blog/2019/06/einladung-berliner-ifg-marathon-am-20.juni/"/>
+    <id>/blog/2019/06/einladung-berliner-ifg-marathon-am-20.juni/</id>
+    <published>2019-06-14T00:00:00+0000</published>
+    <updated>2019-06-14T00:00:00+0000</updated>
+    <summary>Gemeinsam warten wir auf das Transparenzgesetz für Berlin! Doch bis das in Kraft tritt, wird noch einige Zeit vergehen. Da wir aber auch jetzt schon eine transparentere Verwaltung brauchen, können wir bereits das derzeitige Informationsfreiheitsgesetz für Berlin und FragDenStaat.de nutzen.
+Es ist gar nicht immer so einfach Anfragen richtig und zielführend zu formulieren oder überhaupt die richtige Behörde zu finden. Doch dabei wollen wir euch bei unserem IFG-Marathon für Berlin helfen.</summary>
+  </entry>
   
   <entry>
     <title>Verwirrspiel um Video-Volksentscheid zeigt – Wir brauchen ein Transparenzgesetz</title>
