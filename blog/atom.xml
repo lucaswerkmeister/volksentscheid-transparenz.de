@@ -1,13 +1,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog on Volksentscheid Transparenzgesetz</title>
   <link rel="self" href="/blog/"/>
-  <updated>2019-06-25T00:00:00+0000</updated>
+  <updated>2019-07-19T00:00:00+0000</updated>
   <author>
     <name>YOUR NAME HERE</name>
     <email>YOUR EMAIL ADDRESS</email>
     <uri>DEFINITIVE URI OF YOUR WEB SITE</uri>
   </author>
   <id>/blog/</id>
+  
+  <entry>
+    <title>0,48€ pro Einwohner*in pro Jahr - Stärkung der Transparenz in Berlin wäre besonders günstig</title>
+    <link rel="alternate" href="/blog/2019/07/048-pro-einwohnerin-pro-jahr-st%C3%A4rkung-der-transparenz-in-berlin-w%C3%A4re-besonders-g%C3%BCnstig/"/>
+    <id>/blog/2019/07/048-pro-einwohnerin-pro-jahr-st%C3%A4rkung-der-transparenz-in-berlin-w%C3%A4re-besonders-g%C3%BCnstig/</id>
+    <published>2019-07-19T00:00:00+0000</published>
+    <updated>2019-07-19T00:00:00+0000</updated>
+    <summary>Da sich die amtliche Kostenschätzung durch die Senatsverwaltung für das Transparenzgesetz Volksbegehren verzögert, legt das Bündnis Volksentscheid Transparenz nun eine eigene Kostenschätzung vor. Bereits seit März wartet das Bündnis auf die Kostenschätzung durch die Innenverwaltung.
+Das Bündnis geht von einmaligen Kosten zur Einrichtung des Transparenzportals von 10,3 Millionen Euro aus. Danach würden die laufenden Kosten 1,75 Millionen Euro pro Jahr betragen. Leonard Wolf, Sprecher des Volksentscheides Transparenz, sagt dazu: “Die Umsetzung des Volksentscheids Transparenz würde das Land Berlin gerade einmal 48 Cent pro Bürger*in und pro Jahr kosten.</summary>
+  </entry>
   
   <entry>
     <title>Einladung - Vesper am 27. Juni: Schadet Transparenz der Wirtschaft?</title>
