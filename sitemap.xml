@@ -89,10 +89,6 @@
   </url>
   
   <url>
-    <loc>/dates/</loc>
-  </url>
-  
-  <url>
     <loc>/gruende/</loc>
   </url>
   
@@ -116,6 +112,10 @@
   <url>
     <loc>/categories/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/gesetz/</loc>
   </url>
   
   <url>
@@ -162,10 +162,6 @@
   
   <url>
     <loc>/mitmachen/</loc>
-  </url>
-  
-  <url>
-    <loc>/workshop/</loc>
   </url>
   
   <url>
